@@ -35,6 +35,9 @@ width="40" height="40" style="max-width:100%;"></img>-->
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs"
 width="40" height="40" style="max-width:100%;"></img>-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Mateus)](https://github.com/David-Mateus/github-readme-stats)
+
+
 
 
 <!--
