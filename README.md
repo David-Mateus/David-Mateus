@@ -13,20 +13,20 @@ Sou apaixonado por tecnologia, mais tecnicamente o desenvolvimento front-end. Mi
 
 ## My Skills
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript"
-width="40"  height="40" style="max-width:100%;"></img>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript"
+width="40"  height="40" style="max-width:100%;"></img>-->
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
-width="40" height="40" style="max-width:100%;"></img>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
+width="40" height="40" style="max-width:100%;"></img>-->
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"
-width="40" height="40" style="max-width:100%;"></img>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"
+width="40" height="40" style="max-width:100%;"></img>-->
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
-width="40" height="40" style="max-width:100%;"></img>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
+width="40" height="40" style="max-width:100%;"></img>-->
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"
-width="40" height="40" style="max-width:100%;"></img>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"
+width="40" height="40" style="max-width:100%;"></img>-->
 
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"
 width="40" height="40" style="max-width:100%;"></img>-->
@@ -34,6 +34,7 @@ width="40" height="40" style="max-width:100%;"></img>-->
 
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs"
 width="40" height="40" style="max-width:100%;"></img>-->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Mateus)](https://github.com/David-Mateus/github-readme-stats)
 
