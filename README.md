@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Mateus;I'm+from+Brazil;I+Majoring+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=David-Mateus&bg_color=0000000&color=ffffff&line=ffffff&point=bbafaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=David-Mateus&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
